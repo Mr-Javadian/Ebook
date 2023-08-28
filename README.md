@@ -11,6 +11,7 @@ This project showcases the book's content using a visually appealing and user-fr
 - **Explore the Laws**: Dive into the intriguing world of power dynamics by clicking on the links to each law. Each law has its own dedicated page with insightful content.
 - **Download the PDF**: If you prefer a more traditional format, you can download the entire book in PDF format. Just click on the "Download PDF File" link to access it.
 - **Navigate Seamlessly**: Feel free to use the "Go Up" link to quickly return to the top of the page, making navigation smoother.
+  Here is the ![Preview](https://mr-javadian.github.io/Ebook/book.html)
 
 ## Project Structure
 The project is organized as follows:
